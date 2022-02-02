@@ -1,4 +1,4 @@
-<h1 align="center">:file_cabinet: Exemplo de README.md</h1>
+<h1 align="center">:file_cabinet: SOBRE O PROJETO</h1>
 
 ## :memo: Descrição
 Aplicativo responsivo para teste de Fullstack da Maxxidata.
