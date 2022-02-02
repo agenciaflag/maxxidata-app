@@ -7,7 +7,7 @@ const cors = require("cors"); // auxilia na conexão do front com o backend
 const db = mysql.createPool({
     host: "localhost",
     user: "root",
-    password: "flag112233@",
+    password: "112233@",
     database: "maxxidata_base"
 });
 
